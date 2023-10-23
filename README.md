@@ -97,7 +97,7 @@ To run the project, execute the following command:
 
 - GitHub: [@sahlminkok](https://github.com/sahlminkok)
 - Twitter: [@sahlminkok](https://twitter.com/sahlminkok)
-- LinkedIn: [sahlminkok](https://linkedin.com/in/sahlminkok)
+- LinkedIn: [Sahalu Aminu](https://linkedin.com/in/sahlminkok)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
